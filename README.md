@@ -12,7 +12,7 @@ The project is to create a page that displays "Rewards". The page will have tabs
 - Ability to go to an edit page for each object (and persist edits locally)
 - Add ability to sort, filter or search (Choose the fields you think are important)
 
-For technology, feel free to use any HTML/CSS framework you would like. On the Javascript end, stick with React and jQuery as the primary frameworks (additional libraries allowed where you think it makes sense).
+For technology, feel free to use any HTML/CSS framework you would like. On the Javascript end, stick with React/Redux stack (additional libraries allowed where you think it makes sense).
 
 ## Data
 
@@ -20,4 +20,4 @@ Thanks for taking the time to do this assessment project! In the `data.js` file,
 
 ## Deliverables
 
-Please send a zip or tarball of all your code to the assessor.
+Please send a link to github repository of all your code to the assessor.
